@@ -1,0 +1,1 @@
+version: STSv1\nmode: enforce\nmx: *.softwaredelta.com\nmax_age: 86400
